@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - Still Studying 
+ - Software Engineer (Full Stack)
 
- - Building the path to graduate in Computer Science 😎
+ - Java + SpringBoot + Microservices | React + Next + Angular | Aws + Docker | MySql + MongoDB + Firebase
 
 <h3> Refer me through : https://jsr-dev.vercel.app</h3>
 
